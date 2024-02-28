@@ -1,3 +1,3 @@
-module github.com/m00/dmnt-lib/model
+module github.com/m0oo0ham/dmnt-lib/model
 
 go 1.20

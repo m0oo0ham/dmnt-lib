@@ -1,3 +1,3 @@
-module github.com/m00/dmnt-lib/enum
+module github.com/m0oo0ham/dmnt-lib/enum
 
 go 1.20
